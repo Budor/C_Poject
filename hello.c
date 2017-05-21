@@ -1,6 +1,12 @@
 #include<stdio.h>
-
+#include<time.h>
+typedef unsigned int uint
+typedef unsigned char uchar
+uint cont;
 int main(){
-	printf("hello word c!/n");
+	while(1){
+		sllep(255);
+		printf("hello word c!/n");
+	}
 	return 0;
 }
